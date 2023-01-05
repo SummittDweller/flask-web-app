@@ -21,3 +21,7 @@ With `app.py` loaded in VSCode be sure to check the lower-right corner of the wo
 ## The Outcome
 
 The simple app was successfully configured and deployed to "deploying-flask-web-app": https://deploying-flask-web-app.azurewebsites.net.  
+
+## Next Steps
+
+Now that this is safely stored in a public repo at [https://github.com/SummittDweller/flask-web-app,](https://github.com/SummittDweller/flask-web-app) I'm going to clone it into a new `private` repo at [https://github.com/Digital-Grinnell/catpaw-azure](https://github.com/Digital-Grinnell/catpaw-azure) where I'll attempt to re-build elements of [https://github.com/Digital-Grinnell/catpaw.](https://github.com/Digital-Grinnell/catpaw)    

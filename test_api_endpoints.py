@@ -1,7 +1,7 @@
 import requests 
 import json
 # api-endpoint 
-API_ENDPOINT =  "https://catpaw.azurewebsites.net/predict_api"
+API_ENDPOINT =  "https://deploying-flask-web-app.azurewebsites.net/predict_api"
   
 data=[[1,0]]
 # sending get request and saving the response as response object 
